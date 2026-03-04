@@ -29,3 +29,6 @@ This repository contains lecture notes, formulas, and problem sets in mathematic
   
 📹2. Статистика. Лекция 2 ШАД: Методы семплирования, ошибки выборки, стат наблюдения и эксперименты
 - [![Лекция 2](https://img.youtube.com/vi/T3uOuzPM0Cw/hqdefault.jpg)](https://youtu.be/T3uOuzPM0Cw)
+
+📹3. Статистика. Лекция 3 + семинар 1 ШАД: Порядковые статистики + точечные оценки
+- [![Лекция 2](https://img.youtube.com/vi/21G0MktoIhU/hqdefault.jpg)](https://youtu.be/21G0MktoIhU)
